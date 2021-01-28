@@ -1,0 +1,10 @@
+.todo-item {
+
+    background-color: aliceblue;
+    margin-bottom:1em;
+    padding:1em;
+}
+
+.todo-item > h1 {
+    text-align: center;
+}
